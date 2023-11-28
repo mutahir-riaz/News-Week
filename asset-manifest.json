@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/News-Week/static/css/main.0b88668f.css",
+    "main.js": "/News-Week/static/js/main.e6c74864.js",
+    "static/js/787.4c026eef.chunk.js": "/News-Week/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/News-Week/static/media/loading.517057fd4b320338385b.gif",
+    "static/media/wall.jpg": "/News-Week/static/media/wall.a15b70c05c224b97bca4.jpg",
+    "index.html": "/News-Week/index.html",
+    "main.0b88668f.css.map": "/News-Week/static/css/main.0b88668f.css.map",
+    "main.e6c74864.js.map": "/News-Week/static/js/main.e6c74864.js.map",
+    "787.4c026eef.chunk.js.map": "/News-Week/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b88668f.css",
+    "static/js/main.e6c74864.js"
+  ]
+}
