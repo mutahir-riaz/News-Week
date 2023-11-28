@@ -1,0 +1,13 @@
+/* YourComponent.css (or .scss, .less, etc.) */
+
+/* Styles for screens with width >= 600px */
+@media (min-width: 600px) {
+    .main-thing {
+      margin-left: 50px;
+    }
+  }
+@media (min-width: 1139px) {
+    .main-thing {
+      margin-left: 100px;
+    }
+  } 
